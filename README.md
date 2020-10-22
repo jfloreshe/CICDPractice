@@ -16,7 +16,7 @@ localhots:8080
 ```
 Crearse una cuenta o logearse directamente
 
-[!Screenshot](https://github.com/jfloreshe/CICDPractice/blob/master/images/login.PNG)
+![Screenshot](https://github.com/jfloreshe/CICDPractice/blob/master/images/login.PNG)
 ## Integración
 
 
