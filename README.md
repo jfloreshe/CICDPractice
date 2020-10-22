@@ -1,8 +1,23 @@
-i
+#Turorial
+## Prerequisitos
+Java
+## Instalación
+Descargar el archivo ```jenkins.war``` usando el siguiente enlace
+```
+http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+```
+Ejecutar el jenkins.war
+```
+java -jar jenkins.war --httpPort=8080
+```
+Con esto ya podemos abrir un navegador y entrar a la interfaz de jenkins con el siguiente url
+```
+localhots:8080
+```
+Crearse una cuenta o logearse directamente
 
-# Jenkins Pipeline Sample Jenkins Script
+![alt text](https://github.com/jfloreshe/CICDPractice/images/login.png)
+## Integración
 
-This GitHub repository contains one single Jenkinsfile that is used to demonstrate a simple Jenkins pipeline concept.
 
-The repository was created to support the article written for [Opensource.com](https://opensource.com)
 
